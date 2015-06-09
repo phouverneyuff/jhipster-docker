@@ -1,0 +1,8 @@
+mysql-var/auto.cnf
+mysql-var/ibdata1
+mysql-var/ib_logfile0
+mysql-var/ib_logfile1
+mysql-var/mysql
+mysql-var/mysql.sock
+mysql-var/pedido
+mysql-var/performance_schema

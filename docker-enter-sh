@@ -1,0 +1,3 @@
+#id_docker=`./docker-get-id-image.sh`
+
+sudo docker exec -i -t $1 bash
